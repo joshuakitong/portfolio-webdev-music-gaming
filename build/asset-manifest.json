@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f1f89203.css",
-    "main.js": "/portfolio/static/js/main.d91d6bb8.js",
-    "static/media/bgGaming.png": "/portfolio/static/media/bgGaming.13d3b8db7791c2a903ac.png",
-    "static/media/bgMix.png": "/portfolio/static/media/bgMix.0ced174555b87310f52e.png",
-    "static/media/bgMusic.png": "/portfolio/static/media/bgMusic.81099fdc07164b7814bf.png",
-    "static/media/bgWebDev.png": "/portfolio/static/media/bgWebDev.c2c86ba547466224f412.png",
-    "index.html": "/portfolio/index.html",
-    "main.f1f89203.css.map": "/portfolio/static/css/main.f1f89203.css.map",
-    "main.d91d6bb8.js.map": "/portfolio/static/js/main.d91d6bb8.js.map"
+    "main.css": "/portfolio-webdev-music-gaming/static/css/main.a9b9a26f.css",
+    "main.js": "/portfolio-webdev-music-gaming/static/js/main.bc24fb6f.js",
+    "static/media/bgGaming.png": "/portfolio-webdev-music-gaming/static/media/bgGaming.13d3b8db7791c2a903ac.png",
+    "static/media/bgMix.png": "/portfolio-webdev-music-gaming/static/media/bgMix.0ced174555b87310f52e.png",
+    "static/media/bgMusic.png": "/portfolio-webdev-music-gaming/static/media/bgMusic.81099fdc07164b7814bf.png",
+    "static/media/bgWebDev.png": "/portfolio-webdev-music-gaming/static/media/bgWebDev.c2c86ba547466224f412.png",
+    "index.html": "/portfolio-webdev-music-gaming/index.html",
+    "main.a9b9a26f.css.map": "/portfolio-webdev-music-gaming/static/css/main.a9b9a26f.css.map",
+    "main.bc24fb6f.js.map": "/portfolio-webdev-music-gaming/static/js/main.bc24fb6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1f89203.css",
-    "static/js/main.d91d6bb8.js"
+    "static/css/main.a9b9a26f.css",
+    "static/js/main.bc24fb6f.js"
   ]
 }
