@@ -1,0 +1,19 @@
+.bg-mix {
+  background-image: url('./media/bgMix.png');
+  background-repeat: repeat;
+}
+
+.bg-webdev {
+  background-image: url('./media/bgWebDev.png');
+  background-repeat: repeat;
+}
+
+.bg-music {
+  background-image: url('./media/bgMusic.png');
+  background-repeat: repeat;
+}
+
+.bg-gaming {
+  background-image: url('./media/bgGaming.png');
+  background-repeat: repeat;
+}
