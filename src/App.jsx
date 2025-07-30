@@ -24,6 +24,7 @@ function App() {
         </Routes>
       </AnimatePresence>
       <DarkModeToggle />
+      <footer>test</footer>
     </div>
   );
 }
