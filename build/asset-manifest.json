@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-webdev-music-gaming/static/css/main.d60aad99.css",
-    "main.js": "/portfolio-webdev-music-gaming/static/js/main.10f612fb.js",
+    "main.js": "/portfolio-webdev-music-gaming/static/js/main.4e689a26.js",
     "static/media/bgGaming.png": "/portfolio-webdev-music-gaming/static/media/bgGaming.13d3b8db7791c2a903ac.png",
     "static/media/bgMix.png": "/portfolio-webdev-music-gaming/static/media/bgMix.0ced174555b87310f52e.png",
     "static/media/bgMusic.png": "/portfolio-webdev-music-gaming/static/media/bgMusic.81099fdc07164b7814bf.png",
     "static/media/bgWebDev.png": "/portfolio-webdev-music-gaming/static/media/bgWebDev.c2c86ba547466224f412.png",
     "index.html": "/portfolio-webdev-music-gaming/index.html",
     "main.d60aad99.css.map": "/portfolio-webdev-music-gaming/static/css/main.d60aad99.css.map",
-    "main.10f612fb.js.map": "/portfolio-webdev-music-gaming/static/js/main.10f612fb.js.map"
+    "main.4e689a26.js.map": "/portfolio-webdev-music-gaming/static/js/main.4e689a26.js.map"
   },
   "entrypoints": [
     "static/css/main.d60aad99.css",
-    "static/js/main.10f612fb.js"
+    "static/js/main.4e689a26.js"
   ]
 }
