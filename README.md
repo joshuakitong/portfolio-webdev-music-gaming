@@ -11,8 +11,8 @@ This is a responsive, single-page portfolio built with **React**, **Tailwind CSS
 
 ## Features
 
- - Responsive design
- - Scroll stacking
+ - Responsive Design
+ - Scroll Stacking
  - Scroll Reveal Animations
  - Interactive Transitions
  - Reusable Media Carousel
